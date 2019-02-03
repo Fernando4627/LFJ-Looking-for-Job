@@ -20,6 +20,10 @@
     background-color: #622bbb !important
 }
 
+.btn-primary {
+    background-color: #a181d6 !important
+}
+
 .jumbotron {
     border-radius: 0px !important;
 }
@@ -35,4 +39,8 @@
 .md-form input[type=text]:focus:not([readonly]) {
     box-shadow: 0 1px 0 0 #622bbb;
     border-bottom: 1px solid #622bbb;
+}
+
+.lfj {
+    width: 68%;
 }

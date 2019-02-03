@@ -1,15 +1,7 @@
 import React, { Component } from "react"
 import SearchBar from "../SearchBar"
-import MainContainer from "../MainResult"
-import request from "request"
-
-
-
 
 class HomePage extends Component {
-
-
-
     render() {
         return (
             <div>
@@ -17,7 +9,6 @@ class HomePage extends Component {
             </div>
         )
     }
-
 }
 
 export default HomePage

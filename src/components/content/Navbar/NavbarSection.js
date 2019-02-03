@@ -30,11 +30,6 @@ class NavbarSection extends React.Component {
     })
   }
 
-  // toggleCollapse = collapseID => () =>
-  //   this.setState(prevState => ({
-  //     collapseID: prevState.collapseID !== collapseID ? collapseID : ""
-  //   }));
-
   render() {
     return (
       <div>
